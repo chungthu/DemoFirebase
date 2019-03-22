@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "397814171739",
+    "firebase_url": "https://demofirebase-34283.firebaseio.com",
+    "project_id": "demofirebase-34283",
+    "storage_bucket": "demofirebase-34283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397814171739:android:8f6a6e74baafd21b",
+        "android_client_info": {
+          "package_name": "fpt.edu.com.demofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397814171739-4jqi2rs9qr79hl95u9522ov7q5mkl0vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fpt.edu.com.demofirebase",
+            "certificate_hash": "557c1efbf186da2fac0cc1cb62b17ddd4fe60853"
+          }
+        },
+        {
+          "client_id": "397814171739-c3qmgjhe2dbn4phjocd24mfor2juhr2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG6BgmOCV79t2ZS9KNKG_YGgNBjbUGdiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397814171739-c3qmgjhe2dbn4phjocd24mfor2juhr2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
